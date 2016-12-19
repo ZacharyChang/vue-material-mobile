@@ -9,13 +9,6 @@
 </p>
 
 <p>
-  <sub>Made with ❤︎ by
-    <a href="https://twitter.com/_fundon">Fangdun Cai</a> and
-    <a href="https://github.com/vue-bulma/vue-admin/graphs/contributors">contributors</a>
-  </sub>
-</p>
-
-<p>
 <a href="https://npmjs.org/package/vue-admin"><img src="https://img.shields.io/npm/v/vue-admin.svg" alt="NPM version"></a>
 <a href="https://www.npmjs.com/package/vue-admin"><img src="https://img.shields.io/badge/license-MIT-green.svg" alt="MIT License"></a>
 <a href="https://travis-ci.org/vue-bulma/vue-admin"><img src="https://img.shields.io/travis/vue-bulma/vue-admin.svg?label=linux" alt="Linux Build"></a>
